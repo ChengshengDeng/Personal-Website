@@ -36,16 +36,14 @@ theme = "sada"
         title = "Education"
 
         [[params.education.list]]
-        degree = "Masters in Degree 1"
-        college = "University Number 1"
-        dates = "2016 - 2018"
-        thesis_title = "Title of the dissertation"
-        thesis_link = "#"
+        degree = "Master of Arts in Statistics"
+        college = "Boston University"
+        dates = "Sep.2019 - Dec.2020"
 
         [[params.education.list]]
-        degree = "Bachelors in Degree 2"
-        college = "University Number 2"
-        dates = "2010 - 2014"
+        degree = "Bachelor of Science in Mathematics"
+        college = "University of Massachusetts Amherst"
+        dates = "Sep.2015 - May.2019"
 
     # Languages section
     [params.language]
