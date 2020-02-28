@@ -5,13 +5,13 @@ theme = "sada"
 [params]
     title = "Chengsheng's Webiste"
     author = "Chengsheng Deng"
-    description = "Simple bootstrap 4 theme"
+    description = "A Student And A Data Enthusiast"
     copyright = ""
     copyright_link = ""
 
     # Profile section
     [params.profile]
-        name = "Sada Theme"
+        name = "Me"
         photo = "images/mypicture.jpg"
 
     # Section for links to social websites
@@ -21,7 +21,7 @@ theme = "sada"
         [[params.social.list]]
         class = "fab"
         icon = "fa-linkedin-in"
-        url = "#"
+        url = "https://www.linkedin.com/in/chengsheng-deng-40b938196/"
         title = "LinkedIn"
 
         [[params.social.list]]
