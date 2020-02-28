@@ -43,7 +43,7 @@ theme = "sada"
         [[params.education.list]]
         degree = "Bachelor of Science in Mathematics"
         college = "University of Massachusetts Amherst"
-        dates = "Sep.2015 - May.2019"
+        dates = "Sep.2015 - May.2019" 
 
     # Languages section
     [params.language]
@@ -79,20 +79,21 @@ theme = "sada"
     # Experiences section
     [params.experiences]
         icon = "fa-briefcase"
-        title = "Experiences"
+        title = "Experiences" 
+        
+        [[params.jobs.list]]
+        position = "Data Analyst"
+        dates = "Jun.2018 - Aug.2018"
+        company = "Orient Securities, Shanghai, China"
+        details = "1.Conducted a research to examine characteristics of Internet Finance and methods finance institutions used to improve financial services.<br/> 2.Utilized Python to perform data extraction and data manipulation and reviewed data to determine market and business trends through statistical modeling. <br/> 3.Selected Ping An bank’s stock and wrote a strategy collaborating with director and a colleague; obtained 5.61% of strategy revenue, 4.43% of benchmark revenue"
+
 
         [[params.jobs.list]]
-        position = "Job Number 1"
-        dates = "2018 - *Present*"
-		link = "#"
-        company = "Company name 1"
-
-        [[params.jobs.list]]
-        position = "Job Number 2"
-        dates = "2016 - 2018"
-		link = "#"
-        company = "Company name 2"
-        details = "Brief description of the `work` done. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        position = "Data Analyst"
+        dates = "Jun.2017 - Aug.2018"
+        company = "Ciaohu Comapny"
+        details = "1.Communicated with clients and collected data for analysis. 2.Utilized Python to process data including data cleaning, features selection, deleting outliers, transfer data types; ran regression models to do prediction. 3. Assessed fitness for different models; recommended data-driven solutions to improve sales for next month."
+  
 
     # Projects section
     [params.projects]
@@ -100,15 +101,23 @@ theme = "sada"
         title = "Projects"
 
         [[params.projects.list]]
-        title = "Awesome Project 1"
-        url = "#"
-        description = "Description of the *awesome* project 1"
+        title = "Data Analysis of Avocado's Price"
+        url = "https://3r.netlify.com/about/"
+        description = "Studied the relationship between the avocado's Price and other variables such as location, season, month, size, etc (Please click the link to access this great project)"
 		
-		[[params.projects.list]]
-        title = "Awesome Project 2"
-        url = "#"
-        description = "Description of the **awesome** project 2. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-
+		    [[params.projects.list]]
+        title = "Analysis of Three basketball Players with Python" 
+        description = "1.Studied and manipulated three basketball player’s career data. 2.Leveraged Python to pinpoint player had significant impact on team. 3. Organized a meeting once a week to communicate technical problems when processing data. 4.Built and maintained a dashboard in Excel and made presentation to instructor." 
+        
+        [[params.projects.list]]
+        title = "Analysis of The Best Linear Model for Used Car Price with R" 
+        description = "1.Analyzed a research report to identify critical factors to affect car’s price.2.Mentored team members to choose variables and do visualization.3.Compiled R to apply linear model with different variables; evaluated fitness of models.4.Led team of 4 members to present conclusion to instructors from different departments."
+        
+        [[params.projects.list]]
+        title = "Data Analysis of Novel-Corna-Virus in China (In Progress)"
+        url = "https://supermanr.netlify.com/about/" 
+        description = " This is a data analysis for Novel-Corna-Virus which has outbroken in China for several months"
+        
     # Skills section
     [params.skills]
         icon = "fa-cogs"
