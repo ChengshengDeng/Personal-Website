@@ -21,7 +21,7 @@ theme = "sada"
         [[params.social.list]]
         class = "fab"
         icon = "fa-linkedin-in"
-        url = "https://www.linkedin.com/in/chengsheng-deng-40b938196/"
+        url = https://www.linkedin.com/in/chengsheng-deng-40b938196/
         title = "LinkedIn"
 
         [[params.social.list]]
