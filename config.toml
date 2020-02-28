@@ -3,8 +3,8 @@ languageCode = "en-us"
 theme = "sada"
 
 [params]
-    title = "Sada Theme"
-    author = "Darshan Baral"
+    title = "Chengsheng's Webiste"
+    author = "Chengsheng Deng"
     description = "Simple bootstrap 4 theme"
     copyright = ""
     copyright_link = ""
@@ -12,7 +12,7 @@ theme = "sada"
     # Profile section
     [params.profile]
         name = "Sada Theme"
-        photo = "images/profile.jpg"
+        photo = "images/mypicture.jpg"
 
     # Section for links to social websites
     [params.social]
@@ -67,8 +67,8 @@ theme = "sada"
         level = "Fluent"
 				
         [[params.language.list]]
-        language = "Bird"
-        level = "Basic"
+        language = "Mandarin"
+        level = "Native"
 
     # Interests section
     [params.hobbies]
