@@ -27,7 +27,7 @@ theme = "sada"
         [[params.social.list]]
         class = "fab"
         icon = "fa-github"
-        url = "#"
+        url = "https://github.com/ChengshengDeng"
         title = "GitHub"
 		
 
@@ -64,16 +64,16 @@ theme = "sada"
         title = "Hobbies"
 
         [[params.hobbies.list]]
-        interest = "Travelling"
+        interest = "Basketball"
 		
 		[[params.hobbies.list]]
+        interest = "Reading"
+
+        [[params.hobbies.list]]
         interest = "Music"
 
         [[params.hobbies.list]]
-        interest = "Flying"
-
-        [[params.hobbies.list]]
-        interest = "Baking"
+        interest = "Running"
 
     [params.aboutme]
         description = "Hi, welcome to my personal website! My name is Chengsheng Deng, a student pursuing Master degree in Statistics in Boston University. I am also seeking for job opportunities about data analysis."
