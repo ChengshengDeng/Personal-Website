@@ -92,7 +92,7 @@ theme = "sada"
         position = "Data Analyst"
         dates = "Jun.2017 - Aug.2018"
         company = "Ciaohu Comapny"
-        details = "1.Communicated with clients and collected data for analysis. 2.Utilized Python to process data including data cleaning, features selection, deleting outliers, transfer data types; ran regression models to do prediction. 3. Assessed fitness for different models; recommended data-driven solutions to improve sales for next month."
+        details = "1.Communicated with clients and collected data for analysis.<br/> 2.Utilized Python to process data including data cleaning, features selection, deleting outliers, transfer data types; ran regression models to do prediction. <br/> 3. Assessed fitness for different models; recommended data-driven solutions to improve sales for next month."
   
 
     # Projects section
@@ -107,11 +107,11 @@ theme = "sada"
 		
 		    [[params.projects.list]]
         title = "Analysis of Three basketball Players with Python" 
-        description = "1.Studied and manipulated three basketball player’s career data. 2.Leveraged Python to pinpoint player had significant impact on team. 3. Organized a meeting once a week to communicate technical problems when processing data. 4.Built and maintained a dashboard in Excel and made presentation to instructor." 
+        description = "1.Studied and manipulated three basketball player’s career data. <br/> 2.Leveraged Python to pinpoint player had significant impact on team.<br/> 3. Organized a meeting once a week to communicate technical problems when processing data. 4.Built and maintained a dashboard in Excel and made presentation to instructor." 
         
         [[params.projects.list]]
         title = "Analysis of The Best Linear Model for Used Car Price with R" 
-        description = "1.Analyzed a research report to identify critical factors to affect car’s price.2.Mentored team members to choose variables and do visualization.3.Compiled R to apply linear model with different variables; evaluated fitness of models.4.Led team of 4 members to present conclusion to instructors from different departments."
+        description = "1.Analyzed a research report to identify critical factors to affect car’s price.<br/> 2.Mentored team members to choose variables and do visualization. <br/> 3.Compiled R to apply linear model with different variables; evaluated fitness of models. <br/> 4.Led team of 4 members to present conclusion to instructors from different departments."
         
         [[params.projects.list]]
         title = "Data Analysis of Novel-Corna-Virus in China (In Progress)"
