@@ -11,7 +11,7 @@ theme = "sada"
 
     # Profile section
     [params.profile]
-        name = "Me"
+        name = "Chengsheng Deng"
         photo = "images/mypicture.jpg"
 
     # Section for links to social websites
@@ -30,17 +30,6 @@ theme = "sada"
         url = "#"
         title = "GitHub"
 		
-		[[params.social.list]]
-        class = "ai"
-        icon = "ai-google-scholar"
-        url = "#"
-        title = "Google Scholar"
-		
-		[[params.social.list]]
-        class = "ai"
-        icon = "ai-researchgate"
-        url = "#"
-        title = "ResearchGate"		
 
     # Education section
     [params.education]
@@ -87,7 +76,7 @@ theme = "sada"
         interest = "Baking"
 
     [params.aboutme]
-        description = "Tagline. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        description = "Hi, welcome to my personal website! My name is Chengsheng Deng, a student pursuing Master degree in Statistics in Boston University. I am also seeking for job opportunities about data analysis."
 
     # Experiences section
     [params.experiences]
