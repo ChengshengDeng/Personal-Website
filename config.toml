@@ -133,4 +133,9 @@ theme = "sada"
 		
         [[params.skills.list]]
         skill = "SQL"
-        skillrating = 85
+        skillrating = 85 
+        
+        [[params.skills.list]]
+        skill = "Ms Office"
+        skillrating = 90
+        
