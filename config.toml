@@ -115,13 +115,13 @@ theme = "sada"
         title = "Skills"
 
         [[params.skills.list]]
-        skill = "Skill 1, Skill 2"
-        skillrating = 95 # out of 100
+        skill = "Python"
+        skillrating = 75 # out of 100
                 
         [[params.skills.list]]
-        skill = "Skill 3"
+        skill = "R"
         skillrating = 90
 		
         [[params.skills.list]]
-        skill = "Skill 4"
-        skillrating = 80
+        skill = "SQL"
+        skillrating = 85
