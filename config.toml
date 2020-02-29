@@ -90,7 +90,7 @@ theme = "sada"
 
         [[params.jobs.list]]
         position = "Data Analyst"
-        dates = "Jun.2017 - Aug.2018"
+        dates = "Jun.2017 - Aug.2017"
         company = "Ciaohu Comapny"
         details = "1.Communicated with clients and collected data for analysis.<br/> 2.Utilized Python to process data including data cleaning, features selection, deleting outliers, transfer data types; ran regression models to do prediction. <br/> 3. Assessed fitness for different models; recommended data-driven solutions to improve sales for next month."
   
