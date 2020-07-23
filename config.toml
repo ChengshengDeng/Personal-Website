@@ -113,10 +113,6 @@ theme = "sada"
         title = "Analysis of The Best Linear Model for Used Car Price with R" 
         description = "1.Analyzed a research report to identify critical factors to affect car’s price.<br/> 2.Mentored team members to choose variables and do visualization. <br/> 3.Compiled R to apply linear model with different variables; evaluated fitness of models. <br/> 4.Led team of 4 members to present conclusion to instructors from different departments."
         
-        [[params.projects.list]]
-        title = "Data Analysis of Novel-Corna-Virus in China (In Progress)"
-        url = "https://supermanr.netlify.com/about/" 
-        description = " This is a data analysis for Novel-Corna-Virus which has outbroken in China for several months"
         
     # Skills section
     [params.skills]
@@ -133,7 +129,7 @@ theme = "sada"
 		
         [[params.skills.list]]
         skill = "SQL"
-        skillrating = 85 
+        skillrating = 80
         
         [[params.skills.list]]
         skill = "Ms Office"
