@@ -72,6 +72,9 @@ theme = "sada"
 
         [[params.hobbies.list]]
         interest = "Running"
+        
+        [[params.hobbies.list]]
+        interest = "Photography"
 
     [params.aboutme]
         description = "Hi, welcome to my personal website! My name is Chengsheng Deng, a student pursuing Master degree in Statistics in Boston University. I am also seeking for job opportunities about data analysis."
