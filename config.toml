@@ -129,17 +129,6 @@ theme = "sada"
         title = "Skills"
 
         [[params.skills.list]]
-        skill = "Python"
+        skill = "Python,R,MySQL,Ms Office,Tableau"
                 
-        [[params.skills.list]]
-        skill = "R"
-		
-        [[params.skills.list]]
-        skill = "MySQL"
-        
-        [[params.skills.list]]
-        skill = "Ms Office"
-        
-        [[param.skills.list]]
-        skill = "Tableau"
         
