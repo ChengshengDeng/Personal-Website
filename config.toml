@@ -28,7 +28,13 @@ theme = "sada"
         class = "fab"
         icon = "fa-github"
         url = "https://github.com/ChengshengDeng"
-        title = "GitHub"
+        title = "GitHub" 
+        
+        [[params.social.list]]
+        class = "fab" 
+        icon = "fa-twitter" 
+        url = "https://twitter.com/KingDylanDeng"
+        title = "Twitter"
 		
 
     # Education section
