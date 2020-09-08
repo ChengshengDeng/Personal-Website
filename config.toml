@@ -80,7 +80,7 @@ languageCode = "en-us"
         interest = "Running"
         
         [[params.hobbies.list]]
-        interest = "Photography"
+        interest = "Photography (You can click Twitter to see my photos)"
 
     [params.aboutme]
         description = "Hi, welcome to my personal website! My name is Chengsheng Deng, a student pursuing Master degree in Statistics in Boston University. I am also seeking for job opportunities about data analysis."
