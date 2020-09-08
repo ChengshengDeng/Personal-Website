@@ -120,7 +120,7 @@ languageCode = "en-us"
         
         [[params.projects.list]]
         title = "Car Analysis|Python" 
-        description = "1.Analyzed a research report to identify critical factors to affect car’s price.<br/> 2.Mentored team members to choose variables and do visualization. <br/> 3.Compiled R to apply linear model with different variables; evaluated fitness of models. <br/> 4.Led team of 4 members to present conclusion to instructors from different departments."
+        description = "1.Identified critical factors affecting car prices with team members.<br/> 2.Mentored team members to choose variables and do visualization. <br/> 3.Compiled R to apply linear model with different variables; evaluated fitness of models. <br/> 4.Led team of 4 members to present conclusion to instructors from different departments."
         
         
     # Skills section
