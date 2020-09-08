@@ -116,7 +116,7 @@ languageCode = "en-us"
 		    
 		    [[params.projects.list]]
         title = "Analysis of Three Basketball Players|Python " 
-        description = "1.Studied and manipulated three basketball player’s career data. <br/> 2.Leveraged Python to pinpoint player had significant impact on team.<br/> 3. Organized a meeting once a week to communicate technical problems when processing data. 4.Built and maintained a dashboard in Excel and made presentation to instructor." 
+        description = "1.Analyzed and manipulated three basketball player’s career data. <br/> 2.Leveraged Python to pinpoint player had significant impact on team.<br/> 3. Organized a meeting once a week to communicate technical problems when processing data. 4.Built and maintained a dashboard in Excel and made presentation to instructor." 
         
         [[params.projects.list]]
         title = "Analysis of The Best Linear Model for Used Car Price with R" 
