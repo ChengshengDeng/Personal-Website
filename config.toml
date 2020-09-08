@@ -80,7 +80,7 @@ theme = "sada"
         interest = "Running"
         
         [[params.hobbies.list]]
-        interest = "Photography (You can click Twitter to see my photos)"
+        interest = "Photography"
 
     [params.aboutme]
         description = "Hi, welcome to my personal website! My name is Chengsheng Deng, a student pursuing Master degree in Statistics in Boston University. I am also seeking for job opportunities about data analysis."
@@ -120,7 +120,7 @@ theme = "sada"
         
         [[params.projects.list]]
         title = "Car Analysis|Python" 
-        description = "1.Identified critical factors affecting car prices with team members.<br/> 2.Mentored team members to choose variables and do visualization. <br/> 3.Compiled R to apply linear model with different variables; evaluated fitness of models. <br/> 4.Led team of 4 members to present conclusion to instructors from different departments."
+        description = "1.Identified critical factors affecting car prices with team members.<br/> 2.Forecasted prices with 3 different statistical models and pinpoint significant features for prices. <br/> 3.Developed some marketing strategies to stimulate the growth of car sales and won second place in the school project competition"
         
         
     # Skills section
@@ -130,17 +130,16 @@ theme = "sada"
 
         [[params.skills.list]]
         skill = "Python"
-        skillrating = 75 # out of 100
                 
         [[params.skills.list]]
         skill = "R"
-        skillrating = 90
 		
         [[params.skills.list]]
-        skill = "SQL"
-        skillrating = 80
+        skill = "MySQL"
         
         [[params.skills.list]]
         skill = "Ms Office"
-        skillrating = 90
+        
+        [[param.skills.list]]
+        skill = "Tableau"
         
