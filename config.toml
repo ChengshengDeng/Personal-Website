@@ -110,7 +110,7 @@ languageCode = "en-us"
         title = "Projects"
 
         [[params.projects.list]]
-        title = "Data Analysis of Avocado's Price"
+        title = "Analysis of Avocados|R"
         url = "https://3r.netlify.com/about/"
         description = "1.Applied data manipulation and visualization to examine fluctuation of avocado’s monthly prices; concluded the prices of avocado in autumn would be about 5 - 10% higher than in spring. 2.Plotted a time series model of monthly prices of avocados from 2015 to 2019 to predict the monthly price next year with over 85% accuracy. 3.Compiled the findings into a website (https://3r.netlify.app/about/)."
 		    
