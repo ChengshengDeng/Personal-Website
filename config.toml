@@ -90,7 +90,7 @@ theme = "sada"
         interest = "Photography"
 
     [params.aboutme]
-        description = "Hi, welcome to my personal website! My name is Chengsheng Deng, a student pursuing Master degree in Statistics in Boston University. I am also seeking for job opportunities about data science. You can also vist my blog (https://chengshengblog.netlify.app/) to see my life and my stories."
+        description = "Hi,welcome to my personal website! My name is Chengsheng Deng, a student pursuing Master degree in Statistics in Boston University. I am also seeking for job opportunities about data science. You can also vist my blog (https://chengshengblog.netlify.app/) to see my life and my stories."
 
     # Experiences section
     [params.experiences]
