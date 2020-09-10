@@ -34,7 +34,13 @@ theme = "sada"
         class = "fab" 
         icon = "fa-twitter" 
         url = "https://twitter.com/KingDylanDeng"
-        title = "Twitter"
+        title = "Twitter"  
+        
+        [[params.social.list]]
+        class = "fab"
+        icon = "fa-weibo" 
+        url = "https://weibo.com/6117953716/profile?topnav=1&wvr=6&is_all=1"
+        title = "Weibo"
 		
 
     # Education section
