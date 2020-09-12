@@ -39,9 +39,9 @@ theme = "sada"
         
         [[params.social.list]]
         class = "fab"
-        icon = "fa-weibo" 
-        url = "https://weibo.com/6117953716/profile?topnav=1&wvr=6&is_all=1"
-        title = "Weibo"
+        icon = "fa-blog" 
+        url = "https://chengshengblog.netlify.app"
+        title = "Blog"
 		
 
     # Education section
