@@ -1,6 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 theme = "sada"
+googleAnalytics = "UA-178433381-1"
 
 [params]
     title = "Chengsheng's Webiste"
