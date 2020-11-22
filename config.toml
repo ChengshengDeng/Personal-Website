@@ -39,11 +39,6 @@ googleAnalytics = "UA-178433381-3"
         url = "https://twitter.com/KingDylanDeng"
         title = "Twitter"  
         
-        [[params.social.list]]
-        class = "fab"
-        icon = "fa-weibo" 
-        url = "https://chengshengblog.netlify.app"
-        title = "Weibo"
 		
 
     # Education section
