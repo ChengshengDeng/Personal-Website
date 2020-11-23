@@ -39,6 +39,11 @@ googleAnalytics = "UA-178433381-3"
         url = "https://twitter.com/KingDylanDeng"
         title = "Twitter"  
         
+        [[params.social.list]]
+        class = "fab" 
+        icon = "fa-photo"
+        url = "https://dylanphotogallery.netlify.app/"
+        title = "Photo"
 		
 
     # Education section
