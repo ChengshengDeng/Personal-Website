@@ -41,9 +41,9 @@ googleAnalytics = "UA-178433381-3"
         
         [[params.social.list]]
         class = "fab" 
-        icon = "fa-ins"
+        icon = "fa-weibo"
         url = "https://dylanphotogallery.netlify.app/"
-        title = "Ins"
+        title = "Weibo"
 		
 
     # Education section
