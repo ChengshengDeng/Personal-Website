@@ -41,9 +41,9 @@ googleAnalytics = "UA-178433381-3"
         
         [[params.social.list]]
         class = "fab" 
-        icon = "fa-photo"
+        icon = "fa-ins"
         url = "https://dylanphotogallery.netlify.app/"
-        title = "Photo"
+        title = "Ins"
 		
 
     # Education section
