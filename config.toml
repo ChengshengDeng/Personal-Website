@@ -128,7 +128,7 @@ googleAnalytics = "UA-178433381-3"
         
         [[params.projects.list]]
         title = "Car Analysis|Python" 
-        description = "1.Identified critical factors affecting car prices with team members.<br/> 2.Forecasted prices with 3 different statistical models and pinpoint significant features for prices. <br/> 3.Developed some marketing strategies to stimulate the growth of car sales and won second place in the school project competition"
+        description = "1.Identified critical factors affecting car prices with team members.<br/> 2.Forecasted prices with 3 different statistical models and pinpoint significant features for prices <br/> 3.Developed some strategies to stimulate growth of sales, earning awards for being in top 5%."
         
         
     # Skills section
