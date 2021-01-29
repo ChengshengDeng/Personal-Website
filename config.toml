@@ -53,7 +53,7 @@ googleAnalytics = "UA-178433381-3"
         [[params.education.list]]
         degree = "Master of Arts in Statistics"
         college = "Boston University"
-        dates = "Sep.2019 - Dec.2020"
+        dates = "Sep.2019 - Jan.2021"
 
         [[params.education.list]]
         degree = "Bachelor of Science in Mathematics"
