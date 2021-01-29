@@ -103,14 +103,13 @@ googleAnalytics = "UA-178433381-3"
         position = "Business Analyst"
         dates = "Jun.2018 - Aug.2018"
         company = "Orient Securities, Shanghai, China"
-        details = "1.Negotiated partnerships with some banks such as HSBC, China CITIC Bank, and Citibank.</br> 3.Led reshaping of the strategy, making the new plan launched two weeks earlier than expected.</br>"
-        details = "Utilized Tableau to visualize data and propose new strategies to reduce churn rate by 3%."
-
-        [[params.jobs.list]]
+        details = "1.Negotiated partnerships with some banks such as HSBC, China CITIC Bank, and Citibank.</br> 2.Utilized Tableau to visualize data and propose new strategies to reduce churn rate by 3%.</br> 3.Led reshaping of the strategy, making the new plan launched two weeks earlier than expected.</br>"
+               
+         [[params.jobs.list]]
         position = "Data Analyst"
         dates = "Jun.2017 - Aug.2017"
-        company = "Ciaohu Comapny"
-        details = "1.Communicated with clients and collected data for analysis.<br/> 2.Utilized Python to process data including data cleaning, features selection, deleting outliers, transfer data types; ran regression models to do prediction. <br/> 3. Assessed fitness for different models; recommended data-driven solutions to improve sales for next month."
+        company = "Orient Securities, Shanghai, China"
+        details = "1.Analyzed business plans with partners to increase number of subscription by 20%.<br/> 2.Worked with supervisor on highlighting banner on website to improve click-through rate by 5%. <br/> 3. Presented multiple analyses on client conversion rate compared with traditional financial companies."
   
 
     # Projects section
