@@ -124,7 +124,7 @@ googleAnalytics = "UA-178433381-3"
 		    
 		    [[params.projects.list]]
         title = "Analysis of Three Basketball Players|Python " 
-        description = "1.Analyzed and manipulated three basketball player’s career data. <br/> 2.Posted a conclusion on the basketball forum and got an 86% support rate. 3.Ran the regression model to predict the salary of one player next season with over 95% accuracy."
+        description = "1.Analyzed and manipulated three basketball player’s career data. <br/> 2.Posted conclusion on the basketball forum and got an 86% support rate.</br> 3.Ran regression model to predict the salary of one player next season with over 95% accuracy."
         
         [[params.projects.list]]
         title = "Car Analysis|Python" 
