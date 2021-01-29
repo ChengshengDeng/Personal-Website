@@ -103,9 +103,8 @@ googleAnalytics = "UA-178433381-3"
         position = "Business Analyst"
         dates = "Jun.2018 - Aug.2018"
         company = "Orient Securities, Shanghai, China"
-        department = "Marketing Department"
-        details = "1.Conducted a research to examine characteristics of Internet Finance and methods finance institutions used to improve financial services.<br/> 2.Utilized Python to perform data extraction and data manipulation and reviewed data to determine market and business trends through statistical modeling. <br/> 3.Selected Ping An bank’s stock and wrote a strategy collaborating with director and a colleague; obtained 5.61% of strategy revenue, 4.43% of benchmark revenue"
-
+        details = "1.Negotiated partnerships with some banks such as HSBC, China CITIC Bank, and Citibank.</br> 3.Led reshaping of the strategy, making the new plan launched two weeks earlier than expected.</br>"
+        details = "Utilized Tableau to visualize data and propose new strategies to reduce churn rate by 3%."
 
         [[params.jobs.list]]
         position = "Data Analyst"
